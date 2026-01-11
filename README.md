@@ -24,7 +24,7 @@ React Native roadmap: Building mobile applications from scratch, exploring hooks
 * **İşlev:** Çoklu ekran yapısı, ekranlar arası veri aktarımı ve gelişmiş UI düzeni.
 * **Görünüm:**
 
-| Ana Ekran | Detay Ekranı | İstatik Ekranı | Aktif Antrenman | Profil |
+| Ana Ekran | Detay Ekranı | Gelişim Takip Ekranı | Aktif Antrenman | Profil |
 | :---: | :---: | :---: | :---: | :---: |
 | <img src="./03-FitnessApp/screenshots/fitnessApp_preview_1.PNG" width="160" /> | <img src="./03-FitnessApp/screenshots/fitnessApp_preview_2.PNG" width="160" /> | <img src="./03-FitnessApp/screenshots/fitnessApp_preview_3.PNG" width="160" />  | <img src="./03-FitnessApp/screenshots/fitnessApp_preview_5.PNG" width="160" /> | <img src="./03-FitnessApp/screenshots/fitnessApp_preview_4.PNG" width="160" />
 
